@@ -10,3 +10,6 @@ MONGO_URL = "Your mongo connect link"
 PORT = "Your own choice"
 JWT_SECRET = "Your secret key for token verification"
 ```
+***
+![Screenshot (750)](https://user-images.githubusercontent.com/70688937/212534977-b60f584a-9cdd-4a32-b222-50c7b5378241.png)
+***
